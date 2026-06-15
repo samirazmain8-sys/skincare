@@ -1,0 +1,6 @@
+{
+  "name": "Skincare BD",
+  "description": "Authentic Korean & International Skincare E-Commerce Store in Bangladesh with local payment integration.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
